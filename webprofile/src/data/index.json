@@ -2,7 +2,7 @@
     "skills":[
         {
             "id": "1",
-            "imgs": "./images/Group 8 (1).png",
+            "imgs": "./images/Vector (2).png",
             "title":"Front-End Development" ,
             "description":"I have experience in building responsive websites using HTML, CSS, JavaScript, and React.I have also worked with Bootstrap, Materialize, and Tailwind CSS to create visually appealing websites."
         },
@@ -14,7 +14,7 @@
         },
         {
             "id": "3",
-            "imgs": "./images/Group 9.png",
+            "imgs": "./images/Vector (3).png",
             "title":"UI & UX Design" ,
             "description":"I have experience in creating wireframes, mockups, and prototypes using Figma and Adobe XD. I have also worked with Adobe Photoshop and Illustrator to create custom graphics for websites."
         }
