@@ -10,7 +10,7 @@ export default function MySkills() {
                 {data?.skills?.map((item,index) =>(
             <div key={index} className="skills--section--card">
                 <div className="skills--section--img">
-                    <img src={item.imgs}  />
+                    <img src={item.imgs}/>
                 </div>
                 <div className="skills--section--card--content">
                     <h3 className="skills--section--title">{item.title}</h3>
