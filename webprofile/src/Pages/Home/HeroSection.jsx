@@ -3,13 +3,14 @@ export default function HeroSection(){
         <section id="heroSection" className="hero--section">
             <div className="hero--section--content--box">
                 <div className="hero--section--content">
-                    <p className="section--title">Hey, I'm Minh</p>
+                    <p className="section--title"> Portfolio</p>
                     <h1 className="hero--section--title">
                         <span className="hero--section--title--color">
-                            Front-End
-                        </span>(" ")
+                        Hey, I'm Minh 
+                        
                         <br />
-                        Developer
+                       
+                        </span>
                     </h1>
                     <p className="hero--section--description">
                                 Hi, I'm Minh. I'm happy to connect with everyone.
